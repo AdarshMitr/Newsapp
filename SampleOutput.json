@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Video captures couple driving through tornado",
+            "description": "A tornado formed in front of Stephanie and Marc Cochrane as they were driving through South Carolina.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61023229",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F773/production/_124074336_p0bzwwyr.jpg",
+            "publishedAt": "2022-04-07T09:37:26.7913894Z",
+            "content": "Footage shows the moment a couple drove through a tornado in South Carolina.\r\nStephanie and Marc Cochrane were driving in Allendale when the storm formed in front of them.\r\nLocal authorities report t… [+49 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Two men arrested after targeting Secret Service agents in influence operation",
+            "description": "The men allegedly spent thousands of dollars impersonating federal officers to get near the agents.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61019127",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EEBD/production/_124071116_gettyimages-1178554503.jpg",
+            "publishedAt": "2022-04-07T09:37:21.9624682Z",
+            "content": "Image source, Getty Images\r\nImage caption, One of the Secret Service agents targeted served on first lady Jill Biden's protection detail\r\nUS officials have arrested two men who had spent thousands of… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pensioner berates Australian PM at pub photo-op",
+            "description": "Watch Scott Morrison get confronted by a man who angrily accuses him of failing Australians on pensions.",
+            "url": "http://www.bbc.co.uk/news/world-australia-61019541",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0525/production/_124071310_p0bzvqdv.jpg",
+            "publishedAt": "2022-04-07T09:22:23.916789Z",
+            "content": "Australias Prime Minister Scott Morrison has been confronted by a disability pensioner at a pub in New South Wales. \r\nIn heated a confrontation that drew a crowd, the man accused Mr Morrison of faili… [+26 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shanghai: Residents 'running out of food' in Covid lockdown",
+            "description": "Some living in China's biggest city say they're struggling to get supplies weeks into lockdown.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-61019975",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F313/production/_124072226_gettyimages-1389801607.jpg",
+            "publishedAt": "2022-04-07T08:52:26.3692092Z",
+            "content": "Image caption, The government has been under pressure to quickly deliver food supplies to residents\r\nSome residents under lockdown in Shanghai say they are running out of food, amid the city's bigges… [+4097 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tanis: 'First dinosaur fossil linked to asteroid strike'",
+            "description": "Remains are unearthed of a dinosaur that may have died on the very day a space rock hit Earth.",
+            "url": "http://www.bbc.co.uk/news/science-environment-61013740",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3562/production/_124066631_mightyindex.jpg",
+            "publishedAt": "2022-04-07T05:22:19.6339973Z",
+            "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nMedia caption, Watch: Sir David Attenborough seeks expert help to understand the significance of the fossil leg\r\nScientists have presented a stun… [+7588 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China lockdowns: Tourism spending plunges over key holiday",
+            "description": "Tourism spending over the Qingming festival was more than 30% lower than the same time last year.",
+            "url": "http://www.bbc.co.uk/news/business-61019241",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15065/production/_124071168_gettyimages-1389836905-1.jpg",
+            "publishedAt": "2022-04-07T05:07:23.9780458Z",
+            "content": "Image source, Getty Images\r\nTourism spending in China plunged over this week's Qingming festival, as the world's second largest economy battles a rise in infections.\r\nThe amount tourists spent during… [+1850 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Blood clot risk higher for six months after having virus",
+            "description": "Lung and leg clots were much more likely in seriously ill patients, but mild cases can be affected.",
+            "url": "http://www.bbc.co.uk/news/health-61010090",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5FA6/production/_124068442_gettyimages-1303391123.jpg",
+            "publishedAt": "2022-04-07T04:22:20.9629272Z",
+            "content": "Image source, Getty Images\r\nAfter a Covid infection, there is an increased risk of developing a serious blood clot for the next six months, a study from Sweden suggests.\r\nThe research found people wi… [+3201 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amir Locke: No charges filed in Minneapolis 'no-knock' police shooting",
+            "description": "Prosecutors say there is insufficient evidence for criminal charges in fatal shooting of Amir Locke.",
+            "url": "http://www.bbc.co.uk/news/60920818",
+            "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+            "publishedAt": "2022-04-07T01:37:24.2589394Z",
+            "content": "Media caption, Watch: 'We will continue to fight,' vows Amir Locke's mother\r\nNo criminal charges will be brought against a Minneapolis police officer who shot dead a 22-year-old man in an apartment d… [+2591 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rishi Sunak's wife Akshata Murty defends non-dom tax status",
+            "description": "A spokeswoman for Akshata Murty says she pays all the UK taxes that are legally required.",
+            "url": "http://www.bbc.co.uk/news/uk-politics-61017993",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13192/production/_123962287_sunak_murty.jpg",
+            "publishedAt": "2022-04-07T01:37:22.1032281Z",
+            "content": "Image caption, Rishi Sunak said it was wrong for people to criticise his wife Akshata Murty\r\nChancellor Rishi Sunak's wife, Akshata Murty, has revealed she has non-domiciled status for UK tax purpose… [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "IS captors used 'sadistic' torture methods, court hears",
+            "description": "A former captive tells a US court that notorious IS jihadist cell terrorised their hostages.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61016908",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3AEE/production/_124068051_microsoftteams-image.png",
+            "publishedAt": "2022-04-07T01:07:25.4781043Z",
+            "content": "By Sam CabralBBC News, Virginia\r\nImage source, BILL HENNESSY\r\nA journalist once held by captors from the Islamic State group has told a US court of \"sadistic\" and \"terrifying\" tactics used against ho… [+3246 chars]"
+        }
+    ]
+}
